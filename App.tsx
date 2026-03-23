@@ -284,8 +284,7 @@ export default function App() {
             </h1>
             <div className="h-1 w-20 bg-indigo-600 mx-auto rounded-full" />
             <p className="text-slate-600 leading-relaxed font-medium text-lg">
-              あなたの内に秘められた「起業家精神」を可視化。
-              10の資質を分析し、最適なポジションを見つけ出します。
+              10の非認知能力を分析し、最適なポジションを見つけ出します。
             </p>
           </div>
           <button 
